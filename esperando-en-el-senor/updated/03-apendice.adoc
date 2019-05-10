@@ -1,5 +1,6 @@
 == Un Breve Comentario con Respecto a las Reuniones en Silencio
 
+[.chapter-subtitle--blurb]
 Por Isaac Penington
 
 Esto es un gran misterio,
@@ -124,4 +125,4 @@ cosas revela Dios a Sus hijos por el Espíritu,
 cuando ellos esperan en Él en Su temor puro, y adoran y conversan con Él en Espíritu.
 Porque entonces la fuente del gran abismo es abierta y los manantiales
 eternos ciertamente entregan el agua viva y pura.^
-footnote:[De Los Escritos de Isaac Penington, Volumen 4, pg. 47.]
+footnote:[De [.book-title]#Los Escritos de Isaac Penington#, Volumen 4, pg. 47.]
