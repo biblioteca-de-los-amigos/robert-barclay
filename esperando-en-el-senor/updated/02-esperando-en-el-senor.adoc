@@ -35,8 +35,8 @@ le concierne a los Protestantes considerar cuidadosamente
 si han realizado una reforma clara y perfecta,
 pues, ciertamente, hemos encontrado muchas de las ramas muertas cortadas por ellos,
 pero la raíz aún permanece, es decir,
-una adoración llevada a cabo en y desde la voluntad y el
-espíritu del hombre y no por y desde el Espíritu de Dios.
+_una adoración llevada a cabo en y desde la voluntad y el
+espíritu del hombre y no por y desde el Espíritu de Dios._
 Porque la verdadera adoración Cristiana y espiritual
 de Dios se perdió mucho tiempo atrás,
 y la sabiduría y voluntad del hombre se mezclaron tan rápida y completamente con ella,
@@ -1132,13 +1132,16 @@ la cual es "`en Espíritu y en Verdad.`"
 
 === Objeciones Contestadas
 
+[.no-indent]
 Pero en contra de esta adoración, ellos objetan:
 
+[.discourse-part]
 Objeción: Primero,
 pareciera ser un ejercicio infructuoso para un hombre que haga o piense en nada.
 Uno podría estar mejor ocupado ya sea meditando sobre
 un buen tema u orando o alabando a Dios.
 
+[.discourse-part]
 Respuesta: Yo respondo,
 lo que es absolutamente necesario antes de que todos los otros deberes
 puedan llevarse a cabo de manera aceptable (como hemos demostrado),
@@ -1157,6 +1160,7 @@ siendo la razón de la caída de nuestros primeros antepasados, a saber:
 adelantarnos a desear conocer las cosas,
 y entrometernos en ellas sin el mandato del Señor, y siendo contrarios a él.
 
+[.discourse-part]
 Objeción: En segundo lugar, algunos discrepan,
 "`Si su oración consiste simplemente en retirarse internamente al Señor,
 sintiendo Su Espíritu levantarse en usted,
@@ -1168,6 +1172,7 @@ movidos a ir a un lugar o hacer algo en particular?
 ¿Y reunirse en lugares y tiempos determinados, no es una observación y ceremonia externa,
 contrario a lo que usted declara?`"
 
+[.discourse-part]
 Respuesta: Yo respondo,
 reunirse en tiempos o lugares determinados no es un acto
 religioso o una parte de la adoración en sí misma,
@@ -1211,9 +1216,11 @@ aquellos que son rectos en sus espíritus naturalmente se sienten
 atraídos por mantener las reuniones del pueblo de Dios,
 y nunca carecen de la influencia del Espíritu para motivarlos a seguir reuniéndose.
 
+[.discourse-part]
 Objeción: Finalmente,
 algunos objetan que esta forma de adorar en silencio no aparece en toda la Escritura.
 
+[.discourse-part]
 Respuesta: Yo respondo; primero,
 no hacemos del silencio el asunto principal de nuestra adoración,
 ya que (como mencioné previamente) son muy pocas
@@ -1225,7 +1232,7 @@ pues incluso nuestros adversarios confesarán que
 ellos ni predicaron ni oraron salvo por el Espíritu.
 Por consiguiente,
 ¿No debió haber habido momentos en la iglesia primitiva
-cuando el Espíritu no los movió a hablar o actuar,
+cuando el Espíritu _no_ los movió a hablar o actuar,
 y entonces guardaron silencio?
 De hecho,
 no cabe duda en que hubo momentos de silencio antes
@@ -1302,10 +1309,12 @@ Pero hacerlo de la manera que es común entre la mayoría
 de los Cristianos profesantes de hoy día,
 no hay ni precepto ni práctica en todo el Nuevo Testamento, por lo que puedo observar.
 
+[.discourse-part]
 Objeción: Sin embargo ellos alegan que Cristo tomó el libro de Isaías y lo leyó,
 y luego habló a partir de este.
 Y del mismo modo que Pedro predicó desde el pasaje del profeta Joel.
 
+[.discourse-part]
 Respuesta: Yo respondo,
 que Cristo y Pedro no lo hicieron excepto cuando fueron inmediatamente
 influenciados y movidos por el Espíritu de Dios,
@@ -1341,6 +1350,8 @@ y no lo que habían estudiado y reunido de los libros de una forma premeditada.
 
 Francis Lambert lo habla bien, y muestra su hipocresía, diciendo:
 
+[quote]
+____
 Dónde están ahora aquellos que se glorían en sus invenciones espirituales,
 diciendo,
 "`¡Una gran invención! ¡Una gran invención!`" refiriéndose
@@ -1350,9 +1361,12 @@ No, no tendremos invenciones, sino más bien cosas que sean sólidas, invencible
 y celestiales--no eso que los hombres han inventado, sino lo que Dios ha revelado.
 Porque si creemos la Escritura,
 nuestros inventos no hacen más que provocar a Dios para nuestra destrucción.
+____
 
 Y después él escribe,
 
+[quote]
+____
 Ten cuidado, que no determines precisamente hablar lo que antes has meditado,
 cualquier cosa que sea.
 Porque aunque es lícito determinar el texto que debes exponer,
@@ -1363,7 +1377,7 @@ despojado de todo conocimiento, meditación y experiencia.
 Debes comprometer tu corazón, tu lengua, y a ti mismo por completo a Su Espíritu,
 no poniendo confianza alguna en tu estudio o meditación previa,
 sino diciendo dentro de ti mismo (con gran confianza en la divina promesa),
-"`El Señor dará la palabra con poder a los que verdaderamente predican el evangelio.
+"`El Señor dará la palabra con poder a los que verdaderamente predican el evangelio.`"
 
 Pero sobre todas las cosas ten cuidado de no seguir la costumbre de los hipócritas,
 quienes han escrito casi palabra por palabra lo que van a decir,
@@ -1378,8 +1392,8 @@ sino de sus propios escritos y meditaciones! ¿Por qué ora usted al Señor,
 profeta falso,
 para que le dé Su Espíritu Santo mediante el cual hablar cosas provechosas,
 y aún así rechazas Su Espíritu?^
-footnote:[Trat.
-5, de la Profecía, capítulo 3]
+footnote:[Trat. 5, de la Profecía, capítulo 3]
+____
 
 Ahora, esta manera de predicación premeditada (como todos afirman) puede ser,
 y por lo general es, llevada a cabo por hombres malos o vacíos de la gracia verdadera,
@@ -1448,6 +1462,7 @@ Y así como estos testimonios de la Escritura prueban que esta clase
 de predicación es contraria a la doctrina de Cristo,
 asimismo prueban que la nuestra es afirmada.
 
+[.discourse-part]
 Objeción: pero algunos pueden objetar de esta manera:
 ¿No han sido muchos los beneficiados, sí,
 siendo tanto convertidos como edificados por el ministerio
@@ -1457,6 +1472,7 @@ no ha concurrido por Su influencia divina con las predicaciones premeditadas,
 de modo que algunas han impactado poderosamente las
 almas de los oyentes para su beneficio?
 
+[.discourse-part]
 Respuesta: Yo respondo, aunque esto sea concedido (lo cual no voy a negar),
 no infiere que la practica sea buena en sí misma,
 lo cual sería como sugerir que la aparición de Cristo a Pablo en el camino
@@ -1678,7 +1694,8 @@ Y puesto que lo que se afirma aquí por el apóstol es más consistente con los 
 de la Escritura que nos ordenan y recomiendan el uso de la oración,
 yo argumento lo siguiente:
 
-Argumento: Si el hombre no sabe orar, ni puede hacerlo sin la ayuda del Espíritu,
+[.discourse-part]
+_Argumento:_ Si el hombre no sabe orar, ni puede hacerlo sin la ayuda del Espíritu,
 entonces para él no tiene ningún propósito y le es inútil orar sin Él.
 
 Tercero,
@@ -1745,6 +1762,7 @@ sin el Espíritu de Dios, deben ser de ese número.
 Permita que esto sea suficiente como prueba.
 Ahora, voy a proceder a responder algunas objeciones de nuestros oponentes.
 
+[.discourse-part]
 Objeción: Primero,
 ellos objetan que si tales influencias particulares del
 Espíritu son necesarias para actos externos de adoración,
@@ -1753,6 +1771,7 @@ y amar a Dios,
 como también para los deberes morales externos como
 honrar a los padres o hacer lo correcto al prójimo, etc.
 
+[.discourse-part]
 Respuesta: Yo respondo,
 que lo que ya se ha dicho suficientemente responde a esta objeción. Porque,
 con respecto a los deberes generales del hombre hacia Dios y hacia el prójimo,
@@ -1765,10 +1784,12 @@ a cabo por Su Espíritu (ver 1 Corintios 12:4-11;
 1 Pedro 4:11), y son para el beneficio de la reunión pública,
 estos necesitan un mover y una influencia más especial, como ha sido demostrado.
 
+[.discourse-part]
 Objeción: Segundo, ellos objetan que, de acuerdo con esta doctrina,
 los hombres perversos pueden descuidar por años la oración,
 alegando que carecen del mover de Dios para hacerlo.
 
+[.discourse-part]
 Respuesta: Yo respondo,
 que las falsas pretensiones de los hombres malvados
 no hacen nada para invalidar la verdad de esta doctrina.
@@ -1778,11 +1799,13 @@ deberían venir al lugar de velar donde son capaces de sentir las mociones del E
 Es cierto que, ellos pecan al no orar,
 pero la causa de este pecado es que no están velando para poder orar.
 
+[.discourse-part]
 Objeción: Tercero,
 ellos objetan que muchas oraciones que inician sin el Espíritu han demostrado ser efectivas,
 e incluso que las oraciones de los hombres malvados han sido escuchadas
 y aceptadas en ocasiones (como en el caso de Acab).
 
+[.discourse-part]
 Respuesta: Esta objeción se resolvió anteriormente;
 porque los hechos de la compasión e indulgencia de
 Dios en ciertas ocasiones y con ciertas personas,
@@ -1795,10 +1818,12 @@ y operaciones del Espíritu de Dios antes de que el día de su visitación haya 
 Y a partir de estas influencias del Espíritu, ellos algunas veces oran aceptablemente,
 aunque no para permanecer en iniquidad, sino para crecer en piedad.
 
+[.discourse-part]
 Objeción: Por último,
 algunos objetan que el llamado Padrenuestro es una forma prescrita
 de oración o adoración dada por Cristo a Sus discípulos.
 
+[.discourse-part]
 Respuesta: Yo respondo, primeramente,
 que esta oración fue dada a los discípulos mientras ellos se encontraban aún débiles,
 antes de que recibieran la dispensación del Espíritu del nuevo pacto,
