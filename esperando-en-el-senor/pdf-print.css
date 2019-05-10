@@ -1,0 +1,11 @@
+.trim--s .epigraphs {
+  margin-top: 0;
+}
+
+.trim--s .epigraph {
+  font-size: 95%;
+}
+
+.trim--m .epigraphs {
+  margin-top: 15%;
+}
