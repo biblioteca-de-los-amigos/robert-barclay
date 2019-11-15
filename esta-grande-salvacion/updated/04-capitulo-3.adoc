@@ -53,13 +53,15 @@ por el testimonio del Espíritu en nuestros corazones,
 que podemos afirmar con confianza, y declarar claramente,
 de acuerdo al testimonio de las Sagradas Escrituras, los siguientes puntos:
 
-I+++.+++ Que Dios (quien por su infinito amor envió a Su Hijo, el Señor Jesucristo,
+[.numbered]
+_I+++.+++_ Que Dios (quien por su infinito amor envió a Su Hijo, el Señor Jesucristo,
 al mundo para gustar la muerte por todo hombre) ha dado a cada hombre--sea judío o gentil,
 turco o escita, indio o bárbaro, de cualquier nación,
 país o lugar--un cierto día o tiempo de visitación,
 durante el cual les es posible ser salvos y participar del fruto de la muerte de Cristo.
 
-II. Que Dios, para este fin,
+[.numbered]
+_II._ Que Dios, para este fin,
 ha comunicado y dado a cada hombre una medida de la Luz de Su propio Hijo,
 una medida de gracia, o una medida del Espíritu,
 que la Escritura describe con varios nombres: como a veces "`la semilla del reino;`"^
@@ -77,7 +79,8 @@ footnote:[Mateos 13:33]
 // lint-disable invalid-characters line-length
 "`el Evangelio predicado en toda criatura`'footnote:[Colosenses 1:23, Traducción Literal "`εν παση τη  κτισει`"]
 
-III: Que Dios, en y por medio de esta Luz y Semilla, invita, llama,
+[.numbered]
+_III._ Que Dios, en y por medio de esta Luz y Semilla, invita, llama,
 exhorta y contiende con cada hombre con la intención de salvarlo.
 A medida que esta obra de gracia es recibida, y no es resistida,
 es capaz de efectuar la salvación de todos--incluso de aquellos
@@ -104,34 +107,34 @@ footnote:[Hebreos 6:6]
 y para aquellos que lo resisten y rechazan de esta manera, Él se vuelve su condenación.^
 footnote:[Juan 3:19]
 
-Ahora bien, de acuerdo con esta doctrina: Primero:
+Ahora bien, de acuerdo con esta doctrina: _Primero:_
 La misericordia de Dios se exhibe magníficamente,
 ya que ninguno queda necesariamente excluido de la salvación; y Su justicia se demuestra,
 en que Él no condena a nadie excepto a aquellos a
 quienes realmente les hizo una oferta de salvación,
 habiéndoles proporcionado los medios suficientes para obtenerla.
 
-Segundo: Esta doctrina, si se considera debidamente,
+_Segundo:_ Esta doctrina, si se considera debidamente,
 se hallará como el fundamento del cristianismo, la salvación, y la confianza verdaderos.
 
-Tercero:
+_Tercero:_
 Concuerda y encaja con todo el tenor de las promesas y las amenazas del Evangelio,
 y con la naturaleza del ministerio de Cristo,
 de acuerdo al cual se ordena que el Evangelio,
 la salvación y el arrepentimiento se prediquen a toda criatura, sin acepción de naciones,
 tribus, familias o lenguas.
 
-Cuarto: Magnifica y exalta los méritos y la muerte de Cristo,
+_Cuarto:_ Magnifica y exalta los méritos y la muerte de Cristo,
 ya que no solo los considera suficientes para salvar a todos,
 sino que establece que han sido puestos tan cerca de todos los
 hombres que los pone en una capacidad real de ser salvos.
 
-Quinto: Exalta la gracia de Dios sobre todo,
+_Quinto:_ Exalta la gracia de Dios sobre todo,
 como la fuente de todo lo que es verdaderamente bueno--desde
 el más mínimo y pequeño movimiento del bien,
 hasta la conversión y salvación completa del alma.
 
-Sexto: Contradice,
+_Sexto:_ Contradice,
 invalida y anula la falsa doctrina de aquellos que exaltan
 la luz de la naturaleza del hombre y la fuerza de su voluntad,
 porque excluye por completo al hombre natural de
@@ -139,7 +142,7 @@ tener algún lugar o porción en su propia salvación,
 por cualquier tipo de acto, movimiento u obra por su cuenta,
 hasta que primero sea vivificado, levantado y movido por el Espíritu de Dios.
 
-Séptimo:
+_Séptimo:_
 Y así como hace que la totalidad de la salvación
 del hombre dependa única y completamente de Dios,
 también hace que la condenación del hombre sea totalmente, y en todos los aspectos,
@@ -148,7 +151,7 @@ Porque el hombre que niega y resiste el don de Dios que lucha y contiende con su
 al final se ve forzado a reconocer el justo juicio
 de Dios cuando después lo rechaza y abandona.
 
-Octavo: Quita todo motivo de desesperación,
+_Octavo:_ Quita todo motivo de desesperación,
 y le da a cada hombre un motivo de esperanza y una
 confianza firme de que puede ser salvo.
 Sin embargo, no alimenta a nadie con una seguridad falsa,
@@ -156,7 +159,7 @@ ya que ninguno sabe con certeza cuán pronto puede expirar su día. Por lo tanto
 es una constante incitación y provocación, y un estímulo vivo para cada hombre,
 a abandonar el mal y volverse a aquello que es bueno.
 
-Noveno: Exalta maravillosamente la religión cristiana entre los incrédulos,
+_Noveno:_ Exalta maravillosamente la religión cristiana entre los incrédulos,
 manifestando su verdad a todos,
 ya que esta doctrina es confirmada y establecida por la experiencia de todos los hombres.
 Porque nunca se ha encontrado un hombre en algún lugar de
@@ -170,14 +173,14 @@ como también prometiendo y comunicando cierta paz
 y dulzura a medida que se le dé paso a la gracia,
 y no la resista.
 
-Décimo: Muestra maravillosamente la excelente sabiduría de Dios,
+_Décimo:_ Muestra maravillosamente la excelente sabiduría de Dios,
 ya que por ella ha hecho que los medios de salvación sean tan universales y completos.
 Él, por lo tanto, no está obligado a hacer uso de milagros externos,
 ni del ministerio de los ángeles, ni de otros medios inusuales, puesto que,
 según esta doctrina verdadera, el Evangelio alcanza a todos,
 independientemente de la condición, edad o nación que sean.
 
-Onceavo:
+_Onceavo:_
 Es real y efectivamente establecida y confirmada por todos los predicadores y
 promotores del cristianismo en todo el mundo (aunque quizás no en sus palabras,
 pero sí en sus hechos).
@@ -191,7 +194,8 @@ incluso contra su propia voluntad, a abogar por ella.
 
 === Consideraciones Adicionales sobre las Proposiciones Anteriores.
 
-I+++.+++ En primer lugar,
+[.numbered]
+_I+++.+++_ En primer lugar,
 cuando hablamos de que Dios le ha dado un día y tiempo de visitación a todos los hombres,
 durante el cual pueden ser salvos,
 no nos referimos al tiempo completo de vida de cada hombre--aunque para
@@ -231,7 +235,8 @@ footnote:[Lucas 19:42]
 Esto demuestra claramente que hubo un tiempo en el que podían haber conocido estas cosas,
 cuyo tiempo ahora les había sido removido, aunque todavía estaban vivos.
 
-II. En segundo lugar, nosotros decimos que hay una Semilla, o medida de Gracia,
+[.numbered]
+_II._ En segundo lugar, nosotros decimos que hay una Semilla, o medida de Gracia,
 una Palabra de Dios, o Luz,
 por la cual todo hombre es iluminado (habiendo recibido una medida de ella),
 que contiende contra ellos con el fin de salvarlos, y que esta Luz puede,
@@ -287,8 +292,8 @@ Pero en ese Hombre santo, el Señor Jesucristo, la Palabra eterna (que estaba co
 y era Dios) mora en plenitud y sin mediación. Él, por lo tanto, es como la cabeza,
 y nosotros somos como los miembros; Él es la vid y nosotros los pámpanos.
 
-III.
-En tercer lugar, entendemos que esta Semilla,
+[.numbered]
+_III._ En tercer lugar, entendemos que esta Semilla,
 Luz o Gracia es una sustancia espiritual y real,
 que el alma del hombre es capaz de sentir y percibir,
 y de la cual surge un nacimiento real, espiritual e interno en los creyentes,
@@ -310,7 +315,8 @@ oler, ver y tocar las cosas de Dios.
 Porque el hombre no puede alcanzar estas cosas con su espíritu y sentidos naturales,
 como se ha declarado anteriormente.
 
-IV. En cuarto lugar, al insistir en estas cosas, no pretendemos, de ninguna manera,
+[.numbered]
+_IV._ En cuarto lugar, al insistir en estas cosas, no pretendemos, de ninguna manera,
 restarle importancia a la expiación y sacrificio de Jesucristo, ni menospreciarlo;
 sino al contrario, lo magnificamos y exaltamos.
 Porque,
@@ -320,7 +326,7 @@ vida, milagros, sufrimientos, resurrección y ascensión de Cristo,
 también creemos que es el deber de todos aquellos,
 a quienes les han sido declaradas estas verdades, creer en las mismas.
 De hecho, consideramos que es una incredulidad digna de condenación,
-no creer cuando estas cosas han sido presentadas correctamente.
+_no creer_ cuando estas cosas han sido presentadas correctamente.
 Porque la Semilla santa que es sembrada en el hombre, cuando se le presta atención,
 lleva e inclina a cada corazón a creer en las verdades
 de la Escritura conforme se les dan a conocer.
@@ -372,7 +378,8 @@ y nunca sin él;
 pero el misterio puede ser provechoso sin el conocimiento
 explícito y externo de la historia.
 
-V+++.+++ Pero, en quinto lugar, esto nos lleva a otra pregunta, a saber--si Cristo,
+[.numbered]
+_V+++.+++_ Pero, en quinto lugar, esto nos lleva a otra pregunta, a saber--si Cristo,
 por lo tanto, está en todos los hombres.
 Hemos dicho antes que una Luz divina,
 espiritual y sobrenatural ha sido dada a todos los hombres;
@@ -380,13 +387,13 @@ que Dios y Cristo moran en ella y nunca se separan de ella;
 y también que a medida que esta Luz es recibida en el corazón, y se le cede paso,
 Cristo llega a ser revelado y formado en ellos.
 Pero estamos muy lejos de haber dicho alguna vez
-que Cristo es recibido por todos los hombres,
-y mucho menos formado en todos los hombres; porque eso es un gran logro,
+que Cristo es _recibido_ por todos los hombres,
+y mucho menos _formado_ en todos los hombres; porque eso es un gran logro,
 por el cual el apóstol sufría dolores de parto para que fuera formado en los Gálatas.
 Tampoco Cristo está en todos los hombres en el sentido de estar unido a ellos, ni,
 para hablar estrictamente, en el sentido de habitar o morar en ellos,
 porque este habitar implica una unión, o la manera en que Cristo reside en los santos.
-Como está escrito "`Habitaré y andaré entre ellos.`"^
+Como está escrito "`__Habitaré__ y __andaré__ entre ellos.`"^
 footnote:[2 Corintios 6:16]
 
 Sin embargo, en un sentido más general,
@@ -409,13 +416,13 @@ Entonces, Aquel que ahora yace crucificado y enterrado en ellos (por así decirl
 pueda ser resucitado, y tener dominio sobre todo en sus corazones.
 De esta manera también,
 el apóstol Pablo le predicó a los Corintios y Gálatas acerca de
-"`Cristo crucificado en ellos,`" (en humin como lo tiene el griego.)^
-footnote:["`Pues me propuse no saber en vosotros cosa alguna sino a Jesucristo,
+"`Cristo crucificado en ellos,`" (_en humin_ como lo tiene el griego.)^
+footnote:["`Pues me propuse no saber __en vosotros__ cosa alguna sino a Jesucristo,
 y a éste crucificado.`"
 1 Corintios 2:2;
 "`¡Oh gálatas insensatos! ¿quién os fascinó para no obedecer a la verdad,
 a vosotros ante cuyos ojos Jesucristo fue ya presentado
-claramente en vosotros como crucificado?`"
+claramente __en vosotros__ como crucificado?`"
 Gálatas 3:1 -- Traducciones literales del griego.]
 Este Jesucristo era el que el apóstol deseaba conocer en ellos, y manifestarles a ellos,
 para que pudieran llegar a ser conscientes de cómo
@@ -430,7 +437,8 @@ quien verdaderamente es la fuente de toda luz, y tiene Su morada en ella para si
 Así la Luz de Cristo algunas veces es llamada Cristo, es decir,
 aquello en lo que Cristo está, y de lo que nunca se separa.
 
-VI. En sexto lugar, por lo que ha sido dicho anteriormente,
+[.numbered]
+_VI._ En sexto lugar, por lo que ha sido dicho anteriormente,
 se muestra claramente que no vemos esta Semilla o Luz divina
 como algo que sea parte de la naturaleza del hombre,
 ni como alguna reliquia que haya quedado del bien que Adán perdió por su caída;
@@ -508,7 +516,7 @@ y por lo tanto es un testigo fiel para Dios en contra de
 cada manifestación de injusticia en el hombre.
 
 Ahora bien, la palabra conciencia, para definirla correctamente,
-viene del latín conscire,
+viene del latín _conscire,_
 y es ese conocimiento que surge en el corazón del hombre a partir de lo
 que está de acuerdo o es contrario a cualquier cosa que haya creído,
 por medio del cual este se da cuenta de que trasgrede,
@@ -534,7 +542,7 @@ su consciencia lo heriría por ello,
 porque su juicio ya está cegado con una falsa creencia acerca de estas cosas.
 Sin embargo, la Luz de Cristo nunca aprobó ninguna de esas abominaciones.
 Por lo tanto, la conciencia natural del hombre se distingue claramente de ella;
-porque la consciencia sigue el juicio; no lo informa.
+porque la consciencia _sigue_ el juicio; no lo informa.
 Pero esta Luz, en la medida que es recibida y obedecida,
 quita la ceguera del falso juicio,
 abre el entendimiento y rectifica tanto el juicio como la conciencia.
@@ -544,7 +552,7 @@ De hecho, algunos de nosotros la hemos comparado apropiadamente con una linterna
 y la Luz de Cristo con la llama que está adentro.
 Una linterna es útil cuando la llama está encendida y brilla en su interior,
 pero de lo contrario no tiene ningún uso.
-Por lo tanto, es a la Luz de Cristo en la conciencia,
+Por lo tanto, es a la Luz de Cristo _en la conciencia,_
 y no a la conciencia natural del hombre, que continuamente recomendamos a los hombres.
 Esta es su guía segura a la vida eterna.
 
@@ -591,7 +599,8 @@ y ningún hombre sabe de dónde viene, ni a donde va.
 
 === La Operación de la Semilla en el Corazón
 
-VII.
+[.numbered]
+_VII._
 En séptimo lugar,
 esto me lleva a hablar respecto a la manera en que opera
 esta Semilla o Luz en el corazón de todos los hombres,

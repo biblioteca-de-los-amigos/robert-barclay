@@ -61,8 +61,6 @@ cosas mejores acerca de la necesidad de la santidad interna,
 quienes han llegado cerca de la Verdad (como aparecerá más adelante,
 por algunas citas de sus escritos).
 
-.
-
 === Nuestra Postura
 
 En cuanto a nuestra postura en este asunto: En primer lugar,
@@ -109,12 +107,12 @@ porque Dios está dispuesto a perdonarnos nuestras iniquidades y a aceptarnos,
 como el apóstol lo expresa bien: "`Dios estaba en Cristo reconciliando consigo al mundo,
 no tomándoles en cuenta a los hombres sus pecados,
 y ha puesto en nosotros la palabra de reconciliación.`"^
-footnote:[2 Corintios 5:19 Traducción Literal.
-Nota del Editor:
-La mayoría de las traducciones modernas leen "`nos
-encargó a nosotros la palabra +++[+++o mensaje]
-de la reconciliación.`" Pero el griego se lee "`ha
-puesto en nosotros la palabra de reconciliación.`"]
+footnote:[2 Corintios 5:19 Traducción Literal. Nota del Editor:
+La mayoría de las traducciones modernas se leen
+"`nos encargó a nosotros la palabra +++(+++o mensaje) de la reconciliación.`"
+Pero el griego se lee "`ha puesto en nosotros la palabra de reconciliación.`"
+// lint-disable invalid-characters
+θέμενος ἐν ἡμῖν τὸν λόγον τῆς καταλλαγῆς]
 Y por lo tanto, el apóstol, en los siguientes versículos,
 les ruega "`en nombre de Cristo: Reconciliaos con Dios;`" dando a entender,
 que la ira de Dios ha sido removida por la obediencia de Jesucristo,
@@ -126,9 +124,9 @@ ambos perfectos en su propia naturaleza, aunque en su aplicación a nosotros,
 uno no puede estar sin relación al otro, como se observará.
 
 El primer aspecto, pues,
-es la redención que Cristo realizó y consumó por
-nosotros en Su cuerpo crucificado fuera de nosotros.
-El otro es la redención que obra Cristo dentro de nosotros,
+es la redención que Cristo realizó y consumó _por
+nosotros_ en Su cuerpo crucificado fuera de nosotros.
+El otro es la redención que obra Cristo _dentro de nosotros,_
 y este segundo aspecto se llama y se considera una
 redención con la misma propiedad que el primero.
 El primero es aquel por el cual el hombre, estando en su condición caída,
@@ -140,10 +138,10 @@ el cual experimentamos y conocemos esta redención pura y perfecta en nosotros,
 purificando, limpiando y redimiéndonos del poder de la corrupción,
 y llevándonos a la unidad, favor y amistad con Dios.^
 footnote:[Nota del Editor: Véase también Efesios capítulo 1,
-donde Pablo escribe primero (versículo 7), "`en quien tenemos redención por Su sangre,
+donde Pablo escribe primero (versículo 7), "`en quien __tenemos redención__ por Su sangre,
 el perdón de pecados según las riquezas de Su gracia;`" y luego
 (versículo 14) declara que el Espíritu Santo es "`las arras de
-nuestra herencia hasta la redención de la posesión adquirida.`"]
+nuestra herencia __hasta la redención__ de la posesión adquirida.`"]
 
 A través del primer aspecto de estos dos, nosotros, que estábamos perdidos en Adán,
 hundidos en la semilla maligna y corrupta,
@@ -245,8 +243,8 @@ y nos consideramos realmente justificados conforme
 Cristo Jesús es formado y engendrado en nosotros;
 aun así, no podemos excluir las obras de la justificación,
 como algunos protestantes han hecho imprudentemente.
-Porque, para hablar de manera correcta, no somos justificados por ellas, mas,
-sin embargo, somos justificados en ellas, y por lo tanto son necesarias.
+Porque, para hablar de manera correcta, no somos justificados _por_ ellas, mas,
+sin embargo, somos justificados _en_ ellas, y por lo tanto son necesarias.
 Negar esto no solo es contrario al testimonio de la Escritura,
 sino que además ha causado un gran escándalo en la religión de los protestantes,
 ha abierto las bocas de los acusadores y ha hecho que muchos sientan
@@ -261,7 +259,7 @@ a menudo diciendo que las mejores obras, incluso las de los santos,
 son inmundas y corruptas.
 Ahora bien,
 aunque nosotros consideramos que esto es cierto respecto
-a las mejores obras hechas por el hombre,
+a las mejores obras hechas _por el hombre,_
 tratando de cumplir la ley externa por su propia fuerza y en su propia voluntad,
 sin embargo,
 creemos que las obras que proceden naturalmente de este
@@ -275,7 +273,8 @@ de Su propia gracia gratuita.
 Habiendo descrito de esta manera el estado de la controversia,
 ahora deben probarse las siguientes proposiciones:
 
-Primero: Que por la obediencia, los sufrimientos y la muerte de Cristo,
+[.numbered]
+_Primero:_ Que por la obediencia, los sufrimientos y la muerte de Cristo,
 el alma obtiene la remisión de pecados,
 y que esto también es la causa que le abrió paso a la gracia por la que
 Cristo (mediante sus operaciones internas) llega a formarse internamente.
@@ -286,7 +285,8 @@ no en el sentido de estar realmente unido a nosotros,
 o que considera realmente a alguien justo o justificado,
 mientras todavía vive en sus pecados, y continúa siendo impuro e injusto.
 
-Segundo: Que es por este nacimiento interno de Cristo en el hombre,
+[.numbered]
+_Segundo:_ Que es por este nacimiento interno de Cristo en el hombre,
 que somos hechos justos, y, por lo tanto, considerados así por Dios.
 De modo que (para hablar claramente) no somos verdaderamente justificados
 ante los ojos de Dios hasta que Cristo sea engendrado en nosotros;
@@ -294,7 +294,8 @@ porque en la Escritura,
 el término justificación se usa más común y correctamente de acuerdo con su verdadero
 significado,) que es "`hacer justo,`" y no simplemente considerar a alguien justo.
 
-Tercero:
+[.numbered]
+_Tercero:_
 Que puesto que las buenas obras fluyen naturalmente
 de este nacimiento (como el calor del fuego),
 por ende, son absolutamente necesarias para la justificación--no como la causa de ella,
@@ -338,7 +339,7 @@ Porque no existe división donde hay una reconciliación perfecta y completa.
 Pero decir que los hombres pueden estar reconciliados plenamente
 con Dios incluso mientras continúan en sus pecados,
 necesariamente implica que el pecado no hace la más mínima división entre ellos y Dios,
-y que el hombre es justificado en sus pecados.
+y que el hombre es justificado _en sus pecados._
 Y de aquí surgiría la conclusión más abominable:
 que las buenas obras y los grandes pecados son lo mismo ante los ojos de Dios,
 ya que ninguno sirve para justificar, ni para romper la reconciliación con Dios.
@@ -440,6 +441,7 @@ pero proseguiré a observar las objeciones comunes en contra de ella.
 
 === Objeciones y Respuestas
 
+[.discourse-part]
 Objeción:
 La primera y principal objeción es sacada de la afirmación del apóstol (antes mencionado):
 "`Dios nos reconcilió consigo mismo por Cristo:
@@ -449,6 +451,7 @@ footnote:[2 Corintios 5:18-19]
 De aquí ellos deducen que Cristo perfeccionó por completo la obra
 de reconciliación mientras estaba en la tierra.
 
+[.discourse-part]
 Respuesta: Si se entiende por "`reconciliación`" la remoción de la ira,
 y la compra de esa Gracia por la cual podemos llegar
 a ser completamente reconciliados y unidos con Dios,
@@ -475,6 +478,7 @@ Los embajadores no son enviados después de que la paz ya
 se ha establecido y se ha hecho la reconciliación,
 sino para ofrecer la reconciliación.
 
+[.discourse-part]
 Objeción: En segundo lugar, ellos objetan (del versículo 21 del mismo capítulo),
 "`Al que no conoció pecado, por nosotros lo hizo pecado,
 para que nosotros fuésemos hechos justicia de Dios en Él.`" De aquí argumentan:
@@ -482,9 +486,10 @@ que así como nuestro pecado le es imputado a Cristo, quien no tenía pecado;
 de la misma manera la justicia de Cristo nos es imputada,
 sin que seamos realmente justos.
 
+[.discourse-part]
 Respuesta: Pero esta interpretación es rechazada fácilmente;
 porque en múltiples ocasiones el apóstol mismo demuestra que nosotros
-tenemos que ser hechos realmente justos por Cristo,
+tenemos que ser hechos _realmente_ justos por Cristo,
 y no simplemente imputados o considerados justos.
 De hecho,
 esto se evidencia por lo que sigue en los versículos 14-16 del siguiente capítulo,
@@ -517,7 +522,7 @@ Supongo que ya he dicho lo suficiente para demostrar lo mucho que valoramos la m
 y los sufrimientos de Cristo como la ofrenda que satisface la justicia de Dios,
 obtiene remisión de pecados y compra la Gracia y Semilla de la que procede este nacimiento.
 Lo que resta por probar es: que por Cristo Jesús formado en nosotros somos justificados,
-o verdaderamente hechos justos.
+o _verdaderamente hechos justos._
 Tengan en cuenta que aquí uso el término "`justificación`" en este sentido.
 
 Por lo tanto, en primer lugar,
@@ -541,17 +546,17 @@ entonces fueron verdaderamente justificados.
 Por mi parte, no he visto,
 ni jamás he oído o leído nada que indicara que la palabra "`justificados`"
 en este lugar deba entenderse de otra manera que no sea según su significado
-apropiado y genuino de ser hechos justo+++[++++++[+++__ddelink__24516_3820201758]]s.
+apropiado y genuino de _ser hechos justos._
 
 Ahora bien,
 esta palabra "`justificar,`" que se deriva del sustantivo "`justicia,`"
 o del adjetivo "`justo,`" sin duda alguna significa hacer justo,
-porque no es más que una composición del verbo facio, y del adjetivo justus,
-que forman justifico, o yo hago justo.
-De la misma manera, la palabra justificado proviene de justus y fio,
-que significan yo me vuelvo justo.
+porque no es más que una composición del verbo _facio,_ y del adjetivo _justus,_
+que forman _justifico,_ o _yo hago justo._
+De la misma manera, la palabra justificado proviene de _justus_ y _fio,_
+que significan _yo me vuelvo justo._
 Lo mismo ocurre con otros verbos de este tipo,
-como santifico que proviene de sanctus (santo) y facio, que significan yo hago santo.
+como _santifico_ que proviene de _sanctus_ (santo) y _facio,_ que significan _yo hago santo._
 En cada caso,
 se entiende que el sujeto recibe de manera real y verdadera
 de esa virtud y cualidad de la que se deriva el verbo.
@@ -634,14 +639,10 @@ De hecho, muchos padres de la Iglesia y protestantes famosos dicen lo mismo:
 como algo que abarca todo lo que adquirimos de Cristo,
 ya sea por imputación o por la eficacia del Espíritu al santificarnos.
 De esta manera, la palabra justificación debería entenderse en Romanos 8:30.`"^
-footnote:[In cap.
-3+++.+++ Ad Tit.
-Ver. 7.]
+footnote:[In cap. 3. Ad Tit. Ver. 7.]
 Melanchthon dice, "`Ser justificados por fe, no solo significa ser declarados justos,
 sino también, de injustos ser hechos justos.`"^
-footnote:[En Apol.
-Confess.
-Aug.]
+footnote:[En Apol. Confess. Aug.]
 También, algunos de los protestantes principales, aunque no tan claramente,
 han apuntado hacia nuestra doctrina,
 por la cual le atribuimos la remisión de los pecados a la muerte de Cristo,
@@ -664,10 +665,7 @@ y resucitado para nuestra justificación.`' En Su
 muerte se encuentra la expiación por el pecado;
 en Su resurrección se encuentra el don del Espíritu Santo,
 por el cual se perfecciona nuestra justificación.`"^
-footnote:[Lib.
-3+++.+++ Reg.
-Cap. 9. Ver.
-4., p. 681]
+footnote:[Lib. 3. Reg. Cap. 9. Ver. 4., p. 681]
 Y William Forbes, obispo de Edinburgh, dice,
 "`Donde quiera que la Escritura haga mención de la justificación ante Dios,
 es evidente que la palabra justificar no puede significar solamente declarar justo,
@@ -678,11 +676,7 @@ que en la justificación de un pecador, sus pecados no solo son remitidos, perdo
 cubiertos y no imputados, sino que también son quitados, borrados, limpiados, lavados,
 purificados, y removidos muy lejos de nosotros,
 como aparece en muchos lugares de las Sagradas Escrituras.`"^
-footnote:[In considerat.
-modest.
-de Just.
-lib. 2. Sect.
-8.]
+footnote:[In considerat. modest. de Just. lib. 2. Sect. 8.]
 
 === La Revelación de Jesucristo en el Alma
 
@@ -771,12 +765,12 @@ que ellos conocieran a Cristo dentro de ellos,
 porque les insiste tres veces con esta exhortación. En segundo lugar,
 establece como la causa de la reprobación (o de no ser justificados)
 que Cristo no sea revelado y conocido internamente en el alma.
-+++[++++++[+++__ddelink__31611_3820201758]]Y, por lo tanto, debe concluirse lo siguiente:
+Y, por lo tanto, debe concluirse lo siguiente:
 que las personas que conocen a Cristo internamente,
 y están sujetas a Él en sus corazones, son aprobadas y justificadas.
 Nada podría ser más claro que esto; porque si tenemos que conocer a Cristo en nosotros,
 para no estar reprobados (o ser personas no justificadas),
-entonces los que sí lo conocen en ellos no están reprobados,
+entonces los que _sí_ lo conocen en ellos _no_ están reprobados,
 y por ende son personas justificadas.
 Por esta razón, el mismo apóstol dice: "`Hijitos míos,
 por quienes vuelvo a sufrir dolores de parto,
@@ -860,14 +854,15 @@ como si se tratara de puro catolicismo romano,
 no entendiendo la naturaleza de la justicia del nuevo pacto;
 la cual procede completamente de Cristo dentro de nosotros,
 y es forjada por el poder del Espíritu de Cristo en nosotros.`"^
-footnote:[En su libro llamado Aphorisms of Justification (Aforismos de la Justificación), p. 80]
+footnote:[En su libro llamado [.book-title]#Aphorisms of Justification#
+(Aforismos de la Justificación), p. 80]
 
 === La Necesidad de las Buenas Obras
 
 La tercera cosa que debemos considerar son las buenas obras,
 las cuales (como hemos dicho) fluyen naturalmente de este nacimiento espiritual,
 como el calor del fuego, y, por lo tanto,
-son de absoluta necesidad para la justificación--no como la causa de la justificación,
+son de absoluta necesidad para la justificación--__no como la causa__ de la justificación,
 sino como aquello en lo que somos justificados,
 y sin lo cual no podemos ser justificados.
 
@@ -885,7 +880,8 @@ ya que lo que dice el apóstol en este capítulo es suficiente para convencer
 a cualquier hombre que solo esté dispuesto a leerlo y creerlo.
 Por lo tanto, solo extraeré este único argumento:
 
-Argumento: Si ningún hombre puede ser justificado sin fe,
+[.discourse-part]
+_Argumento:_ Si ningún hombre puede ser justificado sin fe,
 y si no hay fe que pueda considerarse viva o adecuada sin obras,
 entonces las obras son necesarias para la justificación.
 
@@ -907,7 +903,8 @@ y que entren por las puertas en la ciudad;`"^
 footnote:[RV1602P]
 Ciertamente, se podrían dar muchos más como ejemplos, de todo lo cual argumento:
 
-Argumento:
+[.discourse-part]
+_Argumento:_
 Si solo aquellos que hacen la voluntad del Padre pueden entrar en el reino de los cielos;
 si solo aquellos que hacen los mandamientos de Cristo son
 considerados edificadores prudentes y bienaventurados;
@@ -916,11 +913,13 @@ y si solo aquellos que hacen sus mandamientos tienen derecho al Árbol de la Vid
 y entran por las puertas a la ciudad;
 entonces las obras son absolutamente necesarias para la salvación y la justificación.
 
+[.discourse-part]
 Objeción:
 Pero ellos objetan que las obras no son necesarias para la justificación
 debido a esa afirmación de Cristo en Lucas 17:10:
 "`Cuando hubiereis hecho todo lo que os es mandado, decid: Siervos inútiles somos;`" etc.
 
+[.discourse-part]
 Respuesta: En cuanto a Dios ciertamente somos inútiles, porque Él no necesita nada,
 y no podemos añadirle nada.
 Pero en cuanto a nosotros mismos no somos inútiles,
@@ -940,12 +939,14 @@ especialmente cuando vemos cómo Cristo habló de ellos: "`Bien, buen siervo y f
 sobre poco has sido fiel, sobre mucho te pondré; entra en el gozo de tu Señor.`"^
 footnote:[Mateo 25:23]
 
+[.discourse-part]
 Objeción: En segundo lugar, ellos objetan a partir de esos dichos del apóstol Pablo,
 en los que excluye las obras de la ley de la justificación: tales como Romanos 3:20,
 "`ya que por las obras de la ley ningún ser humano
 será justificado delante de él,`" y verso 28,
 "`Concluimos, pues, que el hombre es justificado por fe sin las obras de la ley.`"
 
+[.discourse-part]
 Respuesta: En respuesta a esta objeción, digo lo siguiente:
 hay una gran diferencia entre las obras de la Ley,
 y las obras de la gracia o del Evangelio.
@@ -1001,7 +1002,7 @@ Ahora bien, la palabra circuncisión a menudo se usa para abarcar todo el antigu
 incluyendo sus ritos ceremoniales y legales.
 Pablo dice que estas obras de la Ley están excluidas,
 y que por ellas ningún hombre es justificado; pero que la fe que obra por amor,
-o la nueva creación, esto es lo que vale y verdaderamente es necesario.
+o la nueva creación, _esto_ es lo que vale y verdaderamente es necesario.
 Ahora bien,
 en este mismo lugar se muestra que el apóstol de ninguna
 manera intenta excluir las buenas obras de la nueva creación,
@@ -1023,9 +1024,11 @@ Las últimas son los frutos del "`lavamiento de la regeneración,
 y de la renovación del Espíritu Santo.`"^
 footnote:[Véase Tito 3:5]
 
+[.discourse-part]
 Objeción: Pero estas obras del Espíritu podrían también llamarse nuestras,
 porque son hechas en nosotros, y muchas veces por nosotros también como instrumentos.
 
+[.discourse-part]
 Respuesta: Aun así,
 los dos tipos de obras difieren ampliamente entre sí. En el primero
 tipo aún estamos vivos en nuestro propio estado natural,
@@ -1069,6 +1072,7 @@ por su buena voluntad,`"^
 footnote:[Filipenses 2:13]
 etc.
 
+[.discourse-part]
 Objeción: Algunos objetan que ninguna obra, ni siquiera las obras de Cristo en nosotros,
 pueden tener lugar en la justificación,
 porque nada que sea impuro puede ser útil en ella;
@@ -1081,6 +1085,7 @@ entonces nuestras obras deben serlo también; porque incluso las obras de Dios,
 cuando son ejecutadas por nosotros, reciben una mancha de impureza,
 así como el agua limpia se contamina cuando pasa a través de una tubería sucia.
 
+[.discourse-part]
 Respuesta: Confesamos que ninguna obra impura es útil para la justificación;
 pero negamos que todas las obras hechas en los santos sean impuras.
 Y la distinción mencionada anteriormente entre los dos tipos de obras,
@@ -1139,8 +1144,8 @@ añadiré algo en este lugar de nuestro entendimiento
 y creencia en lo concerniente a este asunto.
 Estamos lejos de pensar o creer que el hombre merece algo de Dios por sus obras,
 porque en verdad todo es por la gracia gratuita,
-y por ende siempre hemos negado la imaginación católica de meritum ex condigno.^
-footnote:[Nota del Editor: Meritum ex condigno,
+y por ende siempre hemos negado la imaginación católica de __meritum ex condigno.__^
+footnote:[Nota del Editor: __Meritum ex condigno,__
 es la doctrina católica romana que afirma que hay un mérito intrínseco en las obras,
 que Dios, si actúa de manera justa, no puede evitar recompensar con la vida eterna.]
 Sin embargo, no podemos sino reconocer, que Dios,
@@ -1149,7 +1154,7 @@ después de haberles comunicado Su Santa Gracia y Espíritu, según su propia vo
 también recompensa y premia las buenas obras de Sus hijos.
 Y, por lo tanto, no podemos negar que existe una especie de recompensa merecida,
 en el sentido en que las Escrituras lo afirman de manera clara y positiva.
-Porque la misma palabra griega axion,
+Porque la misma palabra griega _axion,_
 que significa "`mérito,`" se encuentra en esos lugares donde los
 traductores la expresan como "`digno,`" (como en Mateos 3:8;
 1 Tesalonicenses 2:12; 2 Tesalonicenses 1:5, 11.)
