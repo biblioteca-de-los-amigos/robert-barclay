@@ -1,6 +1,6 @@
 == Capítulo VI. Respecto a la Perfección
 
-+++[++++++[+++__ddelink__10084_4044619008]]Puesto que hemos establecido que la justificación
+Puesto que hemos establecido que la justificación
 se obtiene al experimentar a Jesucristo siendo revelado,
 formado y engendrado en el corazón--haciendo allí Sus obras de justicia y produciendo
 los frutos del Espíritu--ahora nos corresponde responder la siguiente pregunta:
@@ -231,7 +231,7 @@ de Dios destruye las obras del diablo en este mundo,
 ni que Cristo apareció para quitar nuestros pecados,
 puesto que abogan por una necesidad de vivir siempre en ellos.
 Y para que nadie tuerza esta Escritura diciendo que
-habla solo de quitar la culpa del pecado,
+habla solo de quitar la _culpa_ del pecado,
 el apóstol (como si tratara intencionalmente de evitar tal objeción) añade inmediatamente,
 "`Todo aquel que permanece en él, no peca;`" e "`Hijitos, nadie os engañe;
 el que hace justicia es justo, como él es justo.
@@ -507,6 +507,7 @@ porque es su comida y bebida ser hallado cumpliendo la voluntad de Dios.
 
 Pero ahora procederé a responder las objeciones y argumentos de nuestros oponentes.
 
+[.discourse-part]
 Objeción: Comenzaré con su argumento principal y más grande,
 el cual está basado en las siguientes palabras del apóstol Juan:
 "`Si decimos que no tenemos pecado, nos engañamos a nosotros mismos,
@@ -514,6 +515,7 @@ y la verdad no está en nosotros.`"^
 footnote:[1 Juan 1:8]
 Ellos piensan que esto es invencible.
 
+[.discourse-part]
 Respuesta: Pero esta objeción no concuerda con su propósito,
 porque Juan no está hablando de pecar diariamente en pensamiento, palabra y obra,
 y mucho menos dice que las buenas obras que Dios mismo obra
@@ -528,7 +530,7 @@ porque sería absurdo y repetitivo sugerir que tanto el perdón como
 la purificación se refieren a la eliminación de la culpa.
 Por esta razón, habiendo experimentado que la culpa y la inmundicia han sido removidas,
 el apóstol continúa en tiempo pasado en el versículo 10, diciendo:
-"`Si decimos que no hemos pecado, le hacemos a él mentiroso.`"
+"`Si decimos que __no hemos pecado,__ le hacemos a él mentiroso.`"
 
 Además, como Agustino bien observó en su exposición sobre la epístola a los Gálatas,
 "`Una cosa es no pecar, y otra cosa no tener pecado.`"
@@ -550,12 +552,14 @@ en varios lugares de la misma epístola,
 afirma de manera clara y positiva la posibilidad de ser libres de pecado,
 como ya ha sido mencionado.
 
+[.discourse-part]
 Objeción: Su segunda objeción viene de dos lugares de las Escrituras,
 que dicen prácticamente lo mismo.
 Una es de 1 Reyes 8:46, "`porque no hay hombre que no peque.`"
 La otra de Eclesiastés 7:20, "`Ciertamente no hay hombre justo en la tierra,
 que haga el bien y nunca peque.`"
 
+[.discourse-part]
 Respuesta: En primer lugar,
 estos versículos no hablan de pecar de manera diaria y continua,
 del cual nunca seremos redimidos, sino solo que todos han pecado,
@@ -566,19 +570,20 @@ de Salomón no hubo nadie que no pecara,
 esto no necesariamente implica que ahora no haya ninguno que no peque,
 o que ahora no sea posible dejar de pecar por medio de la gracia de Dios bajo el Evangelio.
 Y, por último, toda esta objeción se basa en una falsa interpretación de la Escritura;
-porque la palabra Hebrea yekhta`' se puede leer en el modo potencial, traduciéndose así,
-"`No hay hombre que no pueda pecar,`" que de hecho es como Junius y Tremellius,
+porque la palabra Hebrea __yekhta`'__ se puede leer en el modo potencial, traduciéndose así,
+"`No hay hombre que no __pueda__ pecar,`" que de hecho es como Junius y Tremellius,
 y también Vatablus, lo traducen del hebreo.
 La misma palabra se traduce de manera similar en el modo potencial en Salmos 119:11,
 "`En mi corazón he guardado tus dichos, para no pecar contra ti.`"^
 footnote:[Literalmente, el modo potencial expresa algo como:
-"`No hay hombre que no tenga la posibilidad de pecar;`"
+"`No hay hombre que __no tenga la posibilidad__ de pecar;`"
 y "`En mi corazón he guardado tus dichos,
-para que tenga la posibilidad de no pecar contra ti.`"]
+para que __tenga la posibilidad de__ no pecar contra ti.`"]
 Y puesto que esta traducción es más congruente con la tendencia universal de las Escrituras,
 con el testimonio de la Verdad y con el sentido de casi todos los intérpretes,
 sin duda debe entenderse así.
 
+[.discourse-part]
 Objeción: En tercer lugar,
 ellos objetan basados en algunas expresiones del apóstol Pablo en Romanos capítulo 7:
 "`Porque no hago el bien que quiero, sino el mal que no quiero, eso hago.`"^
@@ -586,6 +591,7 @@ footnote:[Romanos 7:19]
 Y "`¡Miserable de mí! ¿quién me librará de este cuerpo de muerte?`"^
 footnote:[Romanos 7:24]
 
+[.discourse-part]
 Respuesta:
 No hay nada en el texto que indique que él está hablando de su condición presente,
 o de una condición en la que siempre estará. Por el contrario,
@@ -617,10 +623,12 @@ que "`la justicia de la ley se cumpliese en nosotros,
 que no andamos conforme a la carne, sino conforme al Espíritu.`"^
 footnote:[Romanos 8:2-4]
 
+[.discourse-part]
 Objeción: En cuarto lugar,
 ellos objetan basados en las faltas y pecados de algunos santos eminentes, como Noé,
 David, etc.
 
+[.discourse-part]
 Respuesta: Esto no prueba en lo absoluto el caso de nuestros oponentes;
 porque la cuestión no es si los hombres buenos no
 pueden caer en pecado (lo cual no negamos),
@@ -629,11 +637,13 @@ Además, que estos hombres hayan pecado en ciertas ocasiones,
 no significa que nunca dejaron de pecar,
 o que nunca experimentaron tiempos de verdadera libertad del pecado.
 
+[.discourse-part]
 Objeción: Finalmente, objetan basados en la oración de nuestro Señor,
 donde les enseñó a Sus discípulos a decir: "`perdónanos nuestras deudas,
 como también nosotros perdonamos a nuestros deudores.`"^
 footnote:[Mateo 6:12]
 
+[.discourse-part]
 Respuesta: Nosotros no negamos que "`todos hemos pecado,
 y estamos destituidos de la gloria de Dios,`"^
 footnote:[Romanos 3:23]
