@@ -1,3 +1,6 @@
-.Cover .back__safe .blurb {
-  font-size: 2.15%;
+#__id__ .back__safe .blurb {
+  font-size: 2.185%;
+  padding-left: 4.4em;
+  padding-right: 4.4em;
+  padding-top: 1.55em;
 }
