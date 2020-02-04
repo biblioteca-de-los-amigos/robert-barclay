@@ -30,6 +30,8 @@ ____
 
 == Prefacio
 
+Foo bar baz.
+
 La mayor parte de este folleto es una versión actualizada de la décima primera
 proposición de la Apología para la Verdadera Teología Cristiana de Robert Barclay.
 Todo el volumen de la Apología de Barclay (que consiste de quince proposiciones en total)
