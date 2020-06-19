@@ -712,6 +712,9 @@ conocer la Verdad y sostenerla conforme está en Jesús,
 voy a intentar demostrar esto desde dos o tres testimonios claros de la Escritura,
 y remover las objeciones más comunes que usualmente son traídas en su contra.
 
+[.numbered-group]
+====
+
 [.numbered]
 _I+++.+++_ En cuanto a lo primero, debido a que la mayoría ya lo reconoce,
 trataré de demostrarlo en pocas palabras.
@@ -946,7 +949,12 @@ probaos a vosotros mismos.
 a menos que estéis reprobados?`"^
 footnote:[2 Corintios 13:5]
 
+====
+
 === La Obra de la Gracia en Aquellos Que No Han Oído
+
+[.numbered-group]
+====
 
 [.numbered]
 _II._ En segundo lugar, lo que ahora falta por probar es lo siguiente:
@@ -1009,6 +1017,8 @@ y haremos morada con él.`" (Juan 14:22-23)]
 porque Él fue dado como una "`Luz para revelación a los gentiles,
 para que sea Su salvación hasta lo postrero de la tierra.`"^
 footnote:[Isaías 49:6, Véase también Isaías 42:6, 60:3; Lucas 2:32; Hechos 13:47]
+
+====
 
 [.discourse-part]
 Objeción: La objeción más común contra esta doctrina es sacada de las palabras de Pedro,

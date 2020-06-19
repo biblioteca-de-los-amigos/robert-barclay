@@ -53,6 +53,9 @@ por el testimonio del Espíritu en nuestros corazones,
 que podemos afirmar con confianza, y declarar claramente,
 de acuerdo al testimonio de las Sagradas Escrituras, los siguientes puntos:
 
+[.numbered-group]
+====
+
 [.numbered]
 _I+++.+++_ Que Dios (quien por su infinito amor envió a Su Hijo, el Señor Jesucristo,
 al mundo para gustar la muerte por todo hombre) ha dado a cada hombre--sea judío o gentil,
@@ -106,6 +109,8 @@ y que Cristo es crucificado de nuevo y expuesto a vituperio en y entre los hombr
 footnote:[Hebreos 6:6]
 y para aquellos que lo resisten y rechazan de esta manera, Él se vuelve su condenación.^
 footnote:[Juan 3:19]
+
+====
 
 Ahora bien, de acuerdo con esta doctrina: _Primero:_
 La misericordia de Dios se exhibe magníficamente,
@@ -193,6 +198,9 @@ De hecho, tal es la evidencia y virtud de la Verdad, que constriñe a sus advers
 incluso contra su propia voluntad, a abogar por ella.
 
 === Consideraciones Adicionales sobre las Proposiciones Anteriores.
+
+[.numbered-group]
+====
 
 [.numbered]
 _I+++.+++_ En primer lugar,
@@ -597,7 +605,12 @@ es como el relámpago que resplandece desde el oriente hasta el occidente,
 y como el viento o Espíritu, que sopla sobre el corazón,
 y ningún hombre sabe de dónde viene, ni a donde va.
 
+====
+
 === La Operación de la Semilla en el Corazón
+
+[.numbered-group]
+====
 
 [.numbered]
 _VII._
@@ -713,3 +726,5 @@ para producir buen fruto y un buen aroma y ser derretido
 por él. Pero cuando un hombre ha rechazado la luz, y ha perdido su día por su pecado,
 entonces el mismo sol lo endurece, como lo hace con la arcilla,
 y hace que su iniquidad aparezca más y se pudra, y produzca un mal aroma.
+
+====
