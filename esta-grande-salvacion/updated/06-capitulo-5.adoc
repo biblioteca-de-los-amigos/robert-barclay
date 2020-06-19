@@ -273,6 +273,9 @@ de Su propia gracia gratuita.
 Habiendo descrito de esta manera el estado de la controversia,
 ahora deben probarse las siguientes proposiciones:
 
+[.numbered-group]
+====
+
 [.numbered]
 _Primero:_ Que por la obediencia, los sufrimientos y la muerte de Cristo,
 el alma obtiene la remisión de pecados,
@@ -313,6 +316,8 @@ inmundas y pecaminosas ante la vista de Dios,
 es algo falso y contrario a la Verdad;
 porque las buenas obras que fluyen del nacimiento espiritual no son las
 obras de la ley que el apóstol excluyó de la justificación.
+
+====
 
 En cuanto a la primera afirmación, la puedo demostrar a partir de Romanos 3:25:
 "`a quien Dios puso como propiciación por medio de la fe en su sangre,
