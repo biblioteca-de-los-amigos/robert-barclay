@@ -471,7 +471,7 @@ footnote:[2 Corintios 5:19 Traducción Literal.
 Nota del Editor: La mayoría de las traducciones modernas dicen:
 "`nos encargó a nosotros la palabra de la reconciliación.`" Pero el griego dice "`poniendo
 // lint-disable invalid-characters
-en nosotros la Palabra de reconciliación`" - θέμενος ἐν ἡμῖν τὸν λόγον τῆς καταλλαγῆς]
+en nosotros la Palabra de reconciliación`" -- θέμενος ἐν ἡμῖν τὸν λόγον τῆς καταλλαγῆς]
 y en el siguiente versículo dice, "`Así que, somos embajadores en nombre de Cristo,
 como si Dios rogase por medio de nosotros; os rogamos en nombre de Cristo:
 Reconciliaos con Dios.`"^
