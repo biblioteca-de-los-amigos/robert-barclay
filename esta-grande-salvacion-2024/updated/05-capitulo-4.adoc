@@ -36,10 +36,10 @@ si también no le hubiera dado a Caín poder suficiente, mediante el cual hacerl
 
 El Señor también muestra esto, al darle un día de visitación al mundo antiguo:
 "`Y dijo Jehová:
-No contenderá mi Espíritu en el hombre para siempre,`" (porque así debe traducirse).^
+No contenderá mi Espíritu _en_ el hombre para siempre,`" (porque así debe traducirse).^
 // lint-disable invalid-characters
 footnote:[Génesis 6:3, בָ אָ דָ ם --es decir, "`en el hombre`"]
-Esto evidentemente implica que Su Espíritu sí contendía en el hombre,
+Esto evidentemente implica que Su Espíritu _sí_ contendía en el hombre,
 y que contiende en el hombre por un tiempo,
 el cual expira cuando Dios deja de contender en ellos con la intención de salvarlos.
 Y es durante este día de visitación dado a todos los hombres,
@@ -147,7 +147,7 @@ y apedreas a los que te son enviados! ¡Cuántas veces quise juntar a tus hijos,
 como la gallina a sus polluelos debajo de sus alas,
 y no quisiste!`" ¿Qué podría probar más claramente nuestra doctrina?
 Primero,
-Él da a entender que hubo un día en el que los habitantes de Jerusalén
+Él da a entender que _hubo_ un día en el que los habitantes de Jerusalén
 pudieron haber conocido lo que era para su paz.
 Segundo, muestra que durante ese día quiso juntarlos,
 como la gallina junta a sus polluelos.
@@ -168,7 +168,7 @@ Y por lo tanto, habiendo expirado ese día, no podían verlas;
 y entonces Dios permitió que se endurecieran en incredulidad.
 
 Así pues,
-los corazones de los hombres son endurecidos después de que las
+los corazones de los hombres son endurecidos _después_ de que las
 verdaderas ofertas de misericordia y salvación han sido rechazadas,
 y no antes.
 Y así es confirmado aquel dicho: "`Porque al que tiene, se le dará; y al que no tiene,
@@ -288,7 +288,7 @@ siempre que los hombres no cierren sus ojos ante ella.
 De hecho, el propósito por el cual es dada esta Luz se expresa en el versículo 7,
 "`a fin de que todos creyesen por ella.`"
 +++[+++es decir, por la Luz].^
-footnote:[Nota de Barclay: di`' autou (que puede traducirse como en él,
+footnote:[Nota de Barclay: __di`' autou__ (que puede traducirse como en él,
 o en ella) concuerda muy bien con photos (la Luz), siendo el antecedente más cercano;
 aunque muchos traductores lo han hecho referirse
 a Juan (para que concuerde con su propia doctrina),
@@ -300,7 +300,7 @@ Juan no resplandecía en las tinieblas; pero esta Luz resplandece en las tiniebl
 para que al disipar las tinieblas, pueda producir y engendrar fe.
 Y es por andar en esta Luz que tenemos comunión y unidad, no por andar en Juan,
 lo cual no tiene sentido.
-Así que este término di`' autou debe necesariamente referirse a la Luz (photos),
+Así que este término __di`' autou__ debe necesariamente referirse a la Luz (__photos__),
 de la cual Juan da testimonio, para que por medio de la luz,
 con la cual Cristo ha iluminado a todo hombre, todos los hombres puedan llegar a creer.]
 
@@ -310,7 +310,7 @@ considero que no se puede dudar que es una Luz sobrenatural, salvadora y suficie
 footnote:[Nota del Editor: Quiere decir "`suficiente`" para la salvación del alma.
 Algunos adversarios de los primeros Amigos,
 al mismo tiempo que admitían que la Luz de Cristo es dada en medida a cada hombre,
-insistían en que ésta es una medida o don insuficiente para salvar el alma.
+insistían en que ésta es una medida o don __insuficiente para salvar el alma.__
 Estos argumentaban que hay una gracia (o iluminación) común,
 por la que todos los hombres poseen un discernimiento moral entre el bien y el mal,
 y luego una gracia salvadora que es dada solamente a los cristianos.]
@@ -348,7 +348,7 @@ creed en la luz, para que seáis hijos de luz.`"^
 footnote:[Juan 12:36]
 
 Algunos objetan que aquí los discípulos debían entender
-que "`Luz`" se refería a la persona externa de Cristo,
+que "`Luz`" se refería a la persona _externa_ de Cristo,
 en la cual Él deseaba que creyeran.
 Ahora bien, no negamos que ellos debieron haber creído en la aparición externa de Cristo,
 reconociéndolo como el Mesías que había de venir.
@@ -382,6 +382,8 @@ es evidente que aunque muchos no reciben la Luz (puesto que las tinieblas no la 
 aun así, esta Luz salvadora resplandece en todos para poder salvarlos.
 Cirilo de Alejandría ha dicho bien con respecto a esto:
 
+[quote]
+____
 "`Con gran diligencia y vigilancia el apóstol Juan se esfuerza
 por anticipar e impedir los pensamientos vanos de los hombres.
 Él recién había llamado al Hijo "`Luz verdadera`",
@@ -425,6 +427,7 @@ ni producir el buen fruto de la iluminación desplegada sobre todos.
 Así pues, parece que ahora puede decirse verdaderamente respecto a todos,
 lo que antiguamente dijo el profeta respecto a los judíos:
 "`Esperaba yo que diese uvas buenas, pero ha dado uvas silvestres.`"
+____
 
 De esto se desprende,
 que Cirilo creía que a todos los hombres les es dada una iluminación salvadora,
@@ -437,7 +440,7 @@ Lucas 8:11). Él dice que la "`semilla`" que es sembrada en diversos tipos de
 terrenos es la "`Palabra del Reino,`" que el apóstol llama la "`Palabra de fe,`"^
 footnote:[Romanos 10:8]
 o "`la Palabra implantada, la cual puede salvar el alma,`"^
-footnote:[Santiago 1:21 -- "`ho logos emphutos`"]
+footnote:[Santiago 1:21 -- __"`ho logos emphutos`"__]
 cuyas palabras implican que es de una naturaleza salvadora,
 y que en buena tierra lleva fruto abundantemente.
 
@@ -485,13 +488,13 @@ Asimismo, el hombre que recibió un talento también habría sido aceptado al de
 porque sin ninguna duda, uno era capaz de producir dos,
 así como los dos produjeron cuatro, y los cinco diez.
 
-Además, esta Luz salvadora y espiritual es el evangelio, el cual,
+Además, esta Luz salvadora y espiritual _es_ el evangelio, el cual,
 dice expresamente el apóstol Pablo,
 se predica "`en toda criatura debajo del cielo;`"
 el mismo evangelio "`del cual fui hecho ministro.`"^
 footnote:[Colosenses 1:23,
 // lint-disable invalid-characters
-Traducción Literal "`εν παση τη  κτισει`" es decir "`en toda criatura.`"
+Traducción Literal __"`εν παση τη  κτισει`"__ es decir "`en toda criatura.`"
 Ver RVG, y RV1602P]
 Porque el evangelio no es la mera declaración de cosas buenas,
 sino más bien "`el poder de Dios para salvación a todo aquel que cree.`"^
@@ -545,7 +548,7 @@ más de lo que un hombre ciego puede ver y discernir la variedad de formas y col
 ni considerar la belleza de la creación externa.
 
 Por esto Pablo primero dice,
-"`lo que se conoce acerca de Dios es evidente dentro de ellos,`" y en y por ese conocimiento,
+"`lo que se conoce acerca de Dios es evidente dentro de ellos,`" y en y por _ese_ conocimiento,
 pueden leer y entender el poder y deidad en esas cosas que son externas y visibles.
 Aunque algunos podrían insistir en que la creación externa, por sí misma,
 sin ninguna Luz sobrenatural o salvadora en el corazón,
@@ -660,7 +663,7 @@ para que nadie alegue el pretexto de la ignorancia, ella ha hecho una invitació
 y sólo requiere aquello que corresponde a la capacidad y fuerza de cada persona.`"^
 footnote:[Lib.
 2, Stromat.]
-El mismo autor, en su Advertencia a los Gentiles, dice:
+El mismo autor, en su [.book-title]#Advertencia a los Gentiles#, dice:
 "`Ese embajador celestial del Señor--la gracia de
 Dios que trae salvación--se ha manifestado a todos.
 Esta gracia es la nueva canción,
@@ -678,11 +681,11 @@ esa misma Palabra que anunciaba de antemano cosas por venir a través de los pro
 
 === La Salvación Mediante la Operación Interna de la Gracia y Luz en el Corazón
 
-La tercera proposición que debe probarse tiene dos partes: Primera,
+La tercera proposición que debe probarse tiene dos partes: _Primera,_
 que es únicamente mediante esta Luz,
 Semilla o Gracia que Dios obra la salvación de los hombres,
 haciéndolos partícipes del beneficio de la muerte
-de Cristo y de la salvación comprada por Él. Y segunda,
+de Cristo y de la salvación comprada por Él. Y _segunda,_
 que por la obra y operación de esta misma Gracia y Luz,
 muchos han sido salvos (y algunos todavía pueden serlo),
 a quienes nunca se les ha sido predicado el evangelio externamente,
@@ -917,7 +920,7 @@ hallarían que Él es como una espada aguda de dos filos en sus corazones,
 y como un fuego y un martillo que golpearía y quemaría
 todas esas cosas carnales y naturales que han amontonado,
 y haría temblar hasta el más fuerte de ellos y se volvería un verdadero "`Cuáquero.`"^
-footnote:[La palabra Cuáqueros es una traducción de la palabra inglesa Quakers,
+footnote:[La palabra __Cuáqueros__ es una traducción de la palabra inglesa __Quakers__,
 que significa, "`los que tiemblan`" ante Dios.]
 Por desgracia, los que no están dispuestos a sentir esto ahora,
 ni a honrar al Hijo mientras dura su día, y en su lugar endurecen sus corazones,
@@ -989,11 +992,13 @@ porque Él fue dado como una "`Luz para revelación a los gentiles,
 para que sea Su salvación hasta lo postrero de la tierra.`"^
 footnote:[Isaías 49:6, Véase también Isaías 42:6, 60:3; Lucas 2:32; Hechos 13:47]
 
+[.discourse-part]
 Objeción: La objeción más común contra esta doctrina es sacada de las palabras de Pedro,
 "`no hay otro nombre bajo el cielo, dado a los hombres, en que podamos ser salvos.`"^
 footnote:[Hechos 4:12]
 Por ende, los paganos que no conocen este nombre no pueden ser salvos.
 
+[.discourse-part]
 Respuesta: Aunque ellos no conocen Su nombre externamente, aun así,
 pueden conocer el nombre de Jesús internamente--que significa Salvador--al sentir
 Su virtud y Su poder librándolos del pecado y de la iniquidad en sus corazones.
@@ -1037,8 +1042,10 @@ debido al pecado de Adán. Y con respecto a las personas con discapacidad mental
 la experiencia nos muestra, que al igual que otros hombres,
 estas personas son propensas a muchas iniquidades comunes.
 
+[.discourse-part]
 Objeción: Si alguno dijera que estos niños son hijos de padres creyentes.
 
+[.discourse-part]
 Respuesta:
 ¿Entonces qué? Ninguno de ellos se atrevería a decir
 que los padres les transmiten gracia a sus hijos.
@@ -1046,10 +1053,12 @@ que los padres les transmiten gracia a sus hijos.
 padres creyentes son culpables del pecado original,
 y merecen la muerte, así como los demás?
 
+[.discourse-part]
 Objeción: Y si ellos además alegaran,
 que estos niños están dentro del seno de la iglesia visible,
 y son partícipes de los sacramentos.
 
+[.discourse-part]
 Respuesta: Nada de esto implica que sean salvos;
 porque estos sacramentos no otorgan gracia sin la fe del receptor;
 como confiesan todos los protestantes.
@@ -1062,7 +1071,7 @@ hacia los bebés y hacia las personas con discapacidad mental,
 de modo que sean considerados capaces de ser salvos,
 debido a que están bajo una simple imposibilidad de conocer los medios de salvación,
 ¿qué razón podría alegarse para no conceder la misma
-caridad a los que son capaces de comprender,
+caridad a los que _son_ capaces de comprender,
 pero nunca han oído el evangelio externo e histórico?
 ¿No tiene un hombre en China o en India, una excusa igualmente válida,
 por no saber algo que nunca ha escuchado,
@@ -1125,11 +1134,10 @@ nos dice que algunos gentiles en verdad "`hicieron lo que es de la ley.`"^
 footnote:[Romanos 2:14]
 A partir de lo cual argumento como sigue:
 
-En toda nación, el que teme a Dios y hace lo justo es aceptado.
-
-Pero algunos de los paganos temieron a Dios, e hicieron lo justo por medio de Él.
-
-Por lo tanto, ellos fueron aceptados.
+[.syllogism]
+* En toda nación, el que teme a Dios y hace lo justo es aceptado.
+* Pero algunos de los paganos temieron a Dios, e hicieron lo justo por medio de Él.
+* Por lo tanto, ellos fueron aceptados.
 
 ¿Puede haber algo más claro?
 Y esto se muestra aún más claramente,
@@ -1138,13 +1146,11 @@ en otro versículo tomado del mismo capítulo que dice,
 footnote:[Romanos 2:13]
 Sobre lo cual argumento, a partir de la sencilla Escritura, que:
 
-Los hacedores de la Ley serán justificados.
-
-Pero algunos de los Gentiles hicieron lo que es de la Ley,
-mostrando que la obra de la Ley estaba escrita en sus corazones.^
+[.syllogism]
+* Los hacedores de la Ley serán justificados.
+* Pero algunos de los Gentiles hicieron lo que es de la Ley, mostrando que la obra de la Ley estaba escrita en sus corazones.^
 footnote:[Romanos 2:15]
-
-Por lo tanto, estos fueron justificados.
+* Por lo tanto, estos fueron justificados.
 
 Pablo, a través de todo ese capítulo,
 se esfuerza como si estuviera contendiendo en este momento contra nuestros adversarios,
@@ -1360,7 +1366,7 @@ que se jactan de la Ley y de las Escrituras,
 y de su conocimiento externo de Cristo,
 hasta los infieles y paganos que no lo conocen de
 esa manera--a volverse a la Luz en ellos,
-a experimentar a Cristo en ellos, a quien Santiago llama el Justo +++[+++ton Dikaion],
+a experimentar a Cristo en ellos, a quien Santiago llama el Justo +++[+++_ton Dikaion_],
 "`a quien han condenado y matado`"^
 footnote:[Santiago 5:6]
 durante tanto tiempo; a renunciar a sus pecados, sus iniquidades, su fe falsa,

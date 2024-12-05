@@ -2,7 +2,7 @@
 
 Robert Barclay (1648-1690) fue un cuáquero escocés,
 y uno de los escritores más eminentes de la primitiva Sociedad de los Amigos.
-Su Apología de la Verdadera Teología Cristiana, fue publicada por primera vez en 1675,
+Su [.book-title]#Apología de la Verdadera Teología Cristiana#, fue publicada por primera vez en 1675,
 y llegó a ser considerada la mejor exposición y defensa de los
 principios de los cuáqueros durante los siguientes 200 años.
 
@@ -24,12 +24,14 @@ y así llegué a estar ligado y unido a este pueblo,
 deseando que el poder y la vida de Cristo se incrementaran cada vez más,
 por medio de lo cual podría sentirme perfectamente redimido.`"
 
-La Apología de la Verdadera Teología Cristiana (de la cual
+La [.book-title]#Apología de la Verdadera Teología Cristiana# (de la cual
 se extrajo este libro) fue escrita por primera vez en latín,
 cuando Barclay tenía sólo veintisiete años de edad,
 y después él mismo la tradujo al inglés. En el prefacio
 de la edición original encontramos los siguientes comentarios:
 
+[quote]
+____
 "`Es posible que mi método de escribir no sólo parezca diferente,
 sino incluso contrario al que es comúnmente usado por los hombres que se llaman teólogos;
 pero esto no me preocupa.
@@ -79,12 +81,15 @@ De esta Vida doy testimonio,
 y deseo que dicho testimonio sea considerado en la Luz de Cristo en todas sus consciencias.
 Me despido`".
 
+[.signed-section-signature]
 Robert Barclay
 
+[.signed-section-context-close]
 Ury, Escocia, 25 del mes 9, 1675
+____
 
 Las siguientes páginas contienen cinco de las quince
-proposiciones originales de la Apología de Barclay,
+proposiciones originales de la _Apología_ de Barclay,
 que tratan de la caída, redención, justificación y perfección del hombre.
 En la traducción de este libro al español,
 se tuvo mucho cuidado para preservar el significado e intención originales de sus palabras.
@@ -99,6 +104,8 @@ Reina Valera 1602 Purificada (RV1602P),
 La Biblia de Las Américas (LBLA) y otras traducciones,
 porque concuerdan con más exactitud con la KJV o con los manuscritos originales.
 
+[.signed-section-signature]
 Jason Henderson
 
+[.signed-section-context-close]
 Noviembre, 2019
