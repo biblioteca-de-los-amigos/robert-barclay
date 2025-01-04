@@ -68,7 +68,7 @@ _II._ Que Dios, para este fin,
 ha comunicado y dado a cada hombre una medida de la Luz de Su propio Hijo,
 una medida de Gracia, o una medida del Espíritu,
 que la Escritura describe con varios nombres como: "`la semilla del reino;`"^
-footnote:[Mateos 13:18-19]
+footnote:[Mateo 13:18-19]
 "`la Luz que manifiesta todo;`"^
 footnote:[Efesios 5:13]
 "`la Palabra de Dios;`"^
@@ -76,9 +76,9 @@ footnote:[Romanos 10:17; Santiago 1:21]
 "`manifestación del Espíritu dada para provecho;`"^
 footnote:[1 Corintios 12:7]
 "`un talento o mina;`"^
-footnote:[Mateos 25:15; Lucas 19:11]
+footnote:[Mateo 25:15; Lucas 19:11]
 "`una pizca de levadura;`"^
-footnote:[Mateos 13:33]
+footnote:[Mateo 13:33]
 "`el evangelio predicado en toda criatura.`"^
 footnote:[Colosenses 1:23,
 // lint-disable invalid-characters
