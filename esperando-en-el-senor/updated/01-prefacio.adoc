@@ -31,15 +31,16 @@ ____
 == Prefacio
 
 La mayor parte de este folleto es una versión actualizada de la décima primera
-proposición de la Apología para la Verdadera Teología Cristiana de Robert Barclay.
-Todo el volumen de la Apología de Barclay (que consiste de quince proposiciones en total)
+proposición de la [.book-title]#Apología para la Verdadera Teología Cristiana#
+de Robert Barclay.
+Todo el volumen de la Apología de Barclay (que consiste en quince proposiciones en total)
 es una obra maravillosa y convincente que recomiendo a todo buscador serio de la Verdad.
 He escogido modernizar y publicar de nuevo esta única proposición porque
 me parece que la invaluable práctica de esperar en el Señor ha sido especialmente
 abandonada y prácticamente ha desaparecido de la iglesia de hoy.
 
-El breve apéndice que inicia en la página 64 es un extracto
-de Los Escritos de Isaac Penington acerca del mismo tema.
+El breve apéndice al final es un extracto de
+Los Escritos de Isaac Penington acerca del mismo tema.
 
 [.signed-section-signature]
 Jason R. Henderson
