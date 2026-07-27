@@ -142,7 +142,9 @@ Este artificio es como si yo tomara a un niño que es incapaz
 de resistirme y lo arrojara desde un gran precipicio.
 En efecto, el peso del cuerpo del niño lo hace descender con rapidez,
 y la violencia de la caída lo mata de inmediato.
-Ahora pregunto, aunque el niño desciende voluntariamente debido al peso de su cuerpo,
+Ahora pregunto, aunque el niño desciende voluntariamente^
+footnote:[Es decir, libremente, sin ser movido por otro.]
+debido al peso de su cuerpo,
 y no por un golpe directo de mi mano (quizás yo esté a gran distancia
 cuando muera) ¿soy yo o el niño la causa verdadera de su muerte?
 Por tanto, que cualquier hombre de razón juzgue,
